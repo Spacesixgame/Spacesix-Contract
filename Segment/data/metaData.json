@@ -1,0 +1,12 @@
+{
+    "name": "Optimus",
+    "description": "SpaceSix, the First Explore-to-Earn Virtual Reality Gaming Ecosystem, Let's play on another Planet",
+    "image": "https://ipfs.io/ipfs/QmZknFCEvmnnk3t4mvr8fwdihSShknixEcFGY2CMNepmyx",
+    "animation_url": "https://ipfs.io/ipfs/QmYM97JfRoZGv1u8XLYtBCuPC6bTzttwBLvEmFmZnWPe4F",
+    "attributes": [
+        {
+            "trait_type": "Resources",
+            "value": "Battle Arena"
+        }
+    ]
+}

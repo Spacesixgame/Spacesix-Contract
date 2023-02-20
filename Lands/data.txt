@@ -1,0 +1,7 @@
+mainnet totalsupply : 0x53D70Ae1C367Ad52007A0a3151e6aFB73dDa0429
+
+mainnet totalsupply + balance bnb: 0x3dB5430757165Ef5295525390c2d628A8E37C0c5
+
+
+
+(Relevant source part starts here and spans across multiple lines).
